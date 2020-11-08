@@ -1,14 +1,17 @@
 ## [ILL] State Of Survival Tips
 
-You can use the [editor on GitHub](https://github.com/dalemhandley/StateOfSurvival/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Things that will annoy everyone
 
-### Markdown
+- Sending more than 1 (or a handful) of troops to an Infected Hunter or Elite Infected Hunter as a rally joiner. The zombie is incredibly weak so it can be killed by just the troops that the rally leader sends (full march). Everyone gets the same amount of rewards (at random) regardless of how many troops you send. Sending only 1 troops allows up to 20 people to join the rally can get the Travis Hero fragments
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+### Things that will annoy everyone
+
+- Sending more than 1 (or a handful) of troops to an Infected Hunter or Elite Infected Hunter as a rally joiner. The zombie is incredibly weak so it can be killed by just the troops that the rally leader sends (full march). Everyone gets the same amount of rewards (at random) regardless of how many troops you send. Sending only 1 troops allows up to 20 people to join the rally can get the Travis Hero fragments
+
+
 Syntax highlighted code block
 
 # Header 1
