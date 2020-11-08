@@ -4,14 +4,24 @@
 ### Things that will annoy everyone
 
 - Sending more than 1 (or a handful) of troops to an Infected Hunter or Elite Infected Hunter as a rally joiner. The zombie is incredibly weak so it can be killed by just the troops that the rally leader sends (full march). Everyone gets the same amount of rewards (at random) regardless of how many troops you send. Sending only 1 troops allows up to 20 people to join the rally can get the Travis Hero fragments
+- Sending Infantry (list infantry) to the Trap Influencer event. The zombie does not attack so sending infantry is a waste of rally capacity
 
+### Basic things to do everyday to help you grow
+
+- Daily Intel
+- Daily Rewards
+- Research Missions
+- Plague Zone
+
+### Things that will help keep you protected
+
+- Don't hoard rss (resources) over your Warehouse limit
+- Don't collect items from mail until you are ready to use them (they will not expire)
+
+
+### IGNORE
 
 ```markdown
-### Things that will annoy everyone
-
-- Sending more than 1 (or a handful) of troops to an Infected Hunter or Elite Infected Hunter as a rally joiner. The zombie is incredibly weak so it can be killed by just the troops that the rally leader sends (full march). Everyone gets the same amount of rewards (at random) regardless of how many troops you send. Sending only 1 troops allows up to 20 people to join the rally can get the Travis Hero fragments
-
-
 Syntax highlighted code block
 
 # Header 1
