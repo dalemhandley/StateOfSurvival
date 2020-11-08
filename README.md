@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## [ILL] State Of Survival Tips
 
 You can use the [editor on GitHub](https://github.com/dalemhandley/StateOfSurvival/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
